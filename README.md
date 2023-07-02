@@ -17,6 +17,14 @@ Results:
 
 ![image](https://github.com/Grunt-prog/spaceship-andromeda/assets/86661317/a0eff476-4524-4ccd-b8b5-871496fc3d3e)
 
+**correlation heatmap**
+
+![image](https://github.com/Grunt-prog/spaceship-andromeda/assets/86661317/d499f5ea-a9d3-4c3b-b4d0-0ab3121bed50)
+
+**correlation between numerical features**
+
+![image](https://github.com/Grunt-prog/spaceship-andromeda/assets/86661317/210389c4-f2c8-4e52-9af0-d4ff3ec0ad73)
+
 **accuracies**
 
 Model	Score
