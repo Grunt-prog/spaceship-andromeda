@@ -21,17 +21,27 @@ Results:
 
 Model	Score
 5	GradientBoosting	0.808666
+
 1	LogisticRegression	0.794479
+
 4	RandomForest	0.771089
+
 3	DecisionTree	0.753834
+
 2	LinearSVC	0.616564
+
 0	KNeighbors	0.615414
 
 **Sample_output**
 
 	PassengerId	Transported
+
 0	0013_01	True
+
 1	0018_01	False
+
 2	0019_01	True
+
 3	0021_01	True
+
 4	0023_01	True
