@@ -57,8 +57,8 @@ Model	Score
 
 4	0023_01	True
 
-NOTE: 
+**NOTE: 
 
 submission_output.csv contains prediction for the test.csv
 
-The notebook was in the name of spaceship-andromeda.ipynb
+The notebook was in the name of spaceship-andromeda.ipynb**
