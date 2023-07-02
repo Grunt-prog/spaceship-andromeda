@@ -20,6 +20,7 @@ Results:
 **accuracies**
 
 Model	Score
+
 5	GradientBoosting	0.808666
 
 1	LogisticRegression	0.794479
