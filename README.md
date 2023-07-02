@@ -12,6 +12,8 @@ Applying Principal Component Analysis (PCA) for dimensionality reduction
 Achieving good accuracy with the Gradient Boost Classifier
 Submission of the results
 Overall, the process involved data exploration, cleaning, feature engineering, model selection, and evaluation, resulting in successful submission with high accuracy for the Gradient Boost Classifier.
+
+
 Results:
 **scatterplot of pca**
 
